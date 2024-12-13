@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.buttons, .comments, .reset {
+    margin: 10px;
+}
+
+textarea {
+    width: 50%;
+    height: 100px;
+    resize: none;
+}
